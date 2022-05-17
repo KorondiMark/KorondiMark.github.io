@@ -1,0 +1,91 @@
+h1 {
+    color: white;
+    font-size: 30px;
+}
+
+a {
+    color: white;
+    margin: 30px;
+    font-size: larger;
+}
+
+h3 {
+    color:white ;
+    font-size: large;
+    line-height: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color:white ;
+    font-size: large;
+    line-height: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    margin: 10px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.menu {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#face {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+#insta {
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;;
+}
+html {
+    background-color: rgb(75, 83, 32);
+}
+.kep {
+    border-radius: 10px;
+    box-shadow: 0 0 5px;
+}
+
+a {
+border: solid 1px ;
+padding: 10px;
+box-shadow: 0 0 3px ;
+}
+#fejlec {
+    margin: 12px;
+    border: solid 1px;
+    box-shadow: 0 0 1px;
+}
+.oldal {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+p {
+    text-align: justify;
+    line-height: 20px;
+}
+#kep {
+    margin-left: 28px;
+    box-shadow: 3 3 2px;
+}
+.lepegeto {
+    border: solid 1px white;
+    padding: 20px;
+    box-shadow: 0 0 2px white;
+
+}
+li {
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.hobbi {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
